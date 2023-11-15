@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained and has been migrated to [zydou/cli-tools](https://github.com/zydou/cli-tools).
+
 # tree-sitter
 
 This repository uses GitHub Actions to build the [tree-sitter](https://github.com/tree-sitter/tree-sitter) tool.
